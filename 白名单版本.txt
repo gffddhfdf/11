@@ -19,6 +19,8 @@ elseif a=="Zxcvbnm6328"then
 _G.whitelist=true
 elseif a=="CN_XS5i21"then
 _G.whitelist=true
+elseif a=="manzijun114514"then
+_G.whitelist=true
 end
 if _G.whitelist==true then
     local CoreGui = game:GetService("StarterGui")
